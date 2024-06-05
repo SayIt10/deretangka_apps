@@ -1,6 +1,6 @@
 # deretangka_apps
 
-A new Flutter project.
+A new Flutter project for assesment mobile developer
 
 ## Getting Started
 
